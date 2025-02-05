@@ -26,7 +26,7 @@ I'm Kian Miridoozini, a web-developer student at [EASV](easv.dk "Business Academ
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kianmiridoozini.kianmiridoozini)
+![](https://komarev.com/ghpvc/?username=kianmiridoozini)
 
 
 

@@ -11,7 +11,7 @@ I'm Kian Miridoozini, a web-developer student at [EASV](easv.dk "Business Academ
 ### What I currently Do
 
 - 🔭 I am currently studying 2nd semester Web-development
-- 😄 I am looking for an intership to.
+- 😄 I am looking for an intership.
 - 📫 How to reach me: kian.miridoozini@gmail.com.
 
 
